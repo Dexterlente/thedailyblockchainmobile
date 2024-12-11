@@ -13,6 +13,8 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
+  'bitcoinsign.circle': 'currency-bitcoin',
+  
 } as Partial<
   Record<
     import('expo-symbols').SymbolViewProps['name'],

@@ -37,7 +37,7 @@ export default function TabLayout() {
         name="liveprices"
         options={{
           title: 'Liveprices',
-          tabBarIcon: ({ color }) => <IconSymbol size={20} name="paperplane.fill" color={color} />,
+          tabBarIcon: ({ color }) => <IconSymbol size={20} name="bitcoinsign.circle" color={color} />,
         }}
       />
       <Tabs.Screen
